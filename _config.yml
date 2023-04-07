@@ -1,7 +1,7 @@
 # Site settings
-title: Portfolio
+title: Maryna Ivanova 
 email: ""
-description: "Photo Journal"
+description: "Portfolio"
 url: "https://arkk4.github.io"
 baseurl: "/marinova-site"
 facebook_username: ""
@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://arkk4.github.io/marinova-site/gallery/"  
-  - JOURNAL: "https://arkk4.github.io/marinova-site/journal/"
-  - ABOUT: "https://arkk4.github.io/marinova-site/about/"
+#  - JOURNAL: "https://arkk4.github.io/marinova-site/journal/"
+#  - ABOUT: "https://arkk4.github.io/marinova-site/about/"
 
 # All translation keys
 translations:
