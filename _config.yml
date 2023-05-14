@@ -2,8 +2,8 @@
 title: Maryna Ivanova 
 email: ""
 description: "Portfolio"
-url: "https://arkk4.github.io"
-baseurl: "/marinova-site"
+url: "https://ynaart.xyz"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,8 +33,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://arkk4.github.io/marinova-site/gallery/gallery01/"  
-  - HOME: "https://arkk4.github.io/marinova-site"  
+  - GALLERY: "https://ynaart.xyz/gallery/gallery01/"  
+  - HOME: "https://ynaart.xyz"  
 #  - JOURNAL: "https://arkk4.github.io/marinova-site/journal/"
 #  - ABOUT: "https://arkk4.github.io/marinova-site/about/"
 
